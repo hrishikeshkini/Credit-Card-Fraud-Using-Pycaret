@@ -9,8 +9,7 @@ In this project we will be implementing Anamoly detection to detect wheteher the
   * [Bugs & Logs](#bugs--logs)
   * [Contributors](#contributors)
 
-![Screenshot](Capture.PNG)
-![Screenshot](Capture2.PNG)
+![Screenshot](download.png)
 
 
 ## Problem Statement
